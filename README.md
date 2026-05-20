@@ -1,6 +1,6 @@
 Hi, I'm Michael 👋
 
-Frontend developer building React and Next.js applications with a focus on interactive UI systems and full-stack features.
+Software Engineer (Full Stack) building React and Next.js applications with a focus on interactive UI systems and full-stack features.
 
 ## Skills
 
