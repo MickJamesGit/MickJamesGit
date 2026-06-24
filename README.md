@@ -1,28 +1,54 @@
 Hi, I'm Michael 👋
 
-Software Engineer (Full Stack) building React and Next.js applications with a focus on interactive UI systems and full-stack features.
+Software Engineer (Full Stack) building React, Typescript, node.js and Next.js applications with a focus on interactive UI systems and full-stack features.
 
 ## Skills
 
 **Frontend**
 - React
 - Next.js
+- Typescript
 - JavaScript
 - Tailwind CSS
 - React Router
 - TanStack Query
 - Vite
+- Babel
+- Prettier
+- eslint
+- ejs
+- HTML5
+- CSS
+- ES6
+- WCAG
+
+**Authentication**
+- passport.js
+- Authjs
 
 **Backend / Database**
+- node.js
+- Next.js
 - Prisma
 - SQL
 
-**Tools & Deployment**
+**Testing / QA**
+- Jest
+- Vitest
+- React Testing Library
+
+**Tools, cloud & Deployment**
 - Vercel
 - Azure
 - Azure DevOps
 - GitHub
 - Terraform
+- Cloudflare
+
+**AI agentic coding**
+- Github Copilot
+- Codex
+- Claude Code
 
 ---
 
